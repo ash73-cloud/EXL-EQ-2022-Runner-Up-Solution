@@ -15,8 +15,18 @@ New_customer_list_data  | This is essentially the test Data.
 Problem Statement  | Problem Statement of EXL EQ '22 provided by EXL itself.
 Submission  | Final Submission File for Round 1.
 
-* In the Round - 2 Folder, There are 3 ipynb files. Two of them indicate the score we got on the Public Leaderboard, and they contain the full approach and the file named scratch.ipynb contains our approach on imputing the many NaN values in the data.
-* In the Round - 3 Folder, We have the data analysis report, which contains a thorough analysis on the data.
+* In the Round - 2 Folder, There is only one file.
+
+File Name  | Description
+------------- | -------------
+Report  | This contains the full analysis, approach and documentation of our solution which was to be submitted for Round-2.
+
+* In the Round - 3 Folder, There is only one file.
+
+File Name  | Description
+------------- | -------------
+Presentation  | This contains the presentation file which was to be presented at National Finals.
+
 Happy Machine Learning !!!
 # Team Members 
 * [Ashis Kumar Parida](https://github.com/ash73-cloud)
