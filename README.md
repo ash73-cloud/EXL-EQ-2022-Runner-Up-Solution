@@ -5,8 +5,10 @@ EXL EQ 2020 will be open across around 30 top engineering institutes, is structu
 
 # File Descriptions
 * In the Round - 1 Folder, There are 6 files.
-**
-**
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 * In the Round - 2 Folder, There are 3 ipynb files. Two of them indicate the score we got on the Public Leaderboard, and they contain the full approach and the file named scratch.ipynb contains our approach on imputing the many NaN values in the data.
 * In the Round - 3 Folder, We have the data analysis report, which contains a thorough analysis on the data.
 Happy Machine Learning !!!
