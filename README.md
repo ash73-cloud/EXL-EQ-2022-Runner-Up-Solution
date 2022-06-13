@@ -19,7 +19,7 @@ Submission  | Final Submission File for Round 1.
 
 File Name  | Description
 ------------- | -------------
-Report  | This contains the full analysis, approach and documentation of \n our solution which was to be submitted for Round-2.
+Report  | This contains the full analysis, approach and documentation of our solution which was to be submitted for Round-2.
 
 * In the Round - 3 Folder, There is only one file.
 
