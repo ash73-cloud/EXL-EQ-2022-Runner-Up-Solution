@@ -6,10 +6,14 @@ EXL EQ 2020 will be open across around 30 top engineering institutes, is structu
 # File Descriptions
 * In the Round - 1 Folder, There are 6 files.
 
-First Header  | Second Header
+File Name  | Description
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Code File  | ipynb file which contains the code.
+Data_Dictionary  | Description of Columns Provided which was to be used for modelling.
+Historical_data  | This is essentially the train Data.
+New_customer_list_data  | This is essentially the test Data.
+Problem Statement  | Problem Statement of EXL EQ '22 provided by EXL itself.
+Submission  | Final Submission File for Round 1.
 
 * In the Round - 2 Folder, There are 3 ipynb files. Two of them indicate the score we got on the Public Leaderboard, and they contain the full approach and the file named scratch.ipynb contains our approach on imputing the many NaN values in the data.
 * In the Round - 3 Folder, We have the data analysis report, which contains a thorough analysis on the data.
